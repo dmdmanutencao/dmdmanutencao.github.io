@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 7,
+    "uniqCompNum": 8,
     "versionPublish": "3.10.4",
     "favicon": "",
     "noImageResize": ""
@@ -111,10 +111,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/dmd-128x128-56.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -149,7 +151,7 @@
             "showButtons": false
           },
           "title": "DMD<br><span style=\"font-weight: normal;\">Manutenção em Equipamentos Industriais</span>",
-          "text": "A DMD manutenção em equipamentos industriais é uma empresa de prestação de serviços de manutenção industrial, com profissionais treinados e especializados, realizados dentro de grandes indústrias.<br>",
+          "text": "<br>A DMD manutenção em equipamentos industriais é uma empresa de prestação de serviços de manutenção industrial, com profissionais treinados e especializados.<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
         },
         {
@@ -324,9 +326,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128-27.png",
               "width": 128,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -335,8 +341,28 @@
             }
           },
           "text1": "<strong>Endereço</strong><br>\nAv. Orlando Ranieri, 8-85&nbsp;<br>Bauru, SP<br>",
-          "text2": "<strong>Contatos</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br><br>",
-          "text3": ""
+          "text2": "<strong>Contatos</strong><br>\nEmail: \u0016<a href=\"mailto:dmdmanutencao@gmail.com\">dmdmanutencao@gmail.com</a><br>Telefone: <a href=\"tel:+551432085409\">(14) 3208-5409</a> <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"tel:+5514988105408\">(14) 98810-5408</a><br><br>",
+          "text3": "",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-7",
+          "_params": {
+            "googleMap": {
+              "address": "Avenida Orlando Ranieri, 885",
+              "placeId": "ChIJ4YRCTHxnv5QRvpaDTGwPkVE",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
         }
       ]
     }
