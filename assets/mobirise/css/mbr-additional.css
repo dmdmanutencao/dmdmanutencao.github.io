@@ -475,12 +475,13 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#features4-0 .card-subtitle {
-  color: #bcbcbc;
+#header3-g .mbr-section-title,
+#header3-g .mbr-section-subtitle {
+  text-align: center;
 }
-#features4-0 .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
+#header3-h .mbr-section-title,
+#header3-h .mbr-section-subtitle {
+  text-align: center;
 }
 #features4-f .card-subtitle {
   color: #bcbcbc;
@@ -488,6 +489,10 @@ h6,
 #features4-f .iconbox {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
+}
+#header3-i .mbr-section-title,
+#header3-i .mbr-section-subtitle {
+  text-align: center;
 }
 #contacts1-6 P {
   color: #efefef;
