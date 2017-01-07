@@ -124,7 +124,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DMD</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DMD</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-0\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-6\" aria-expanded=\"false\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -311,6 +311,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "contacts1-6",
           "_params": {
             "paddingTop": 3,
@@ -342,12 +347,7 @@
           },
           "text1": "<strong>Endereço</strong><br>\nAv. Orlando Ranieri, 8-85&nbsp;<br>Bauru, SP<br>",
           "text2": "<strong>Contatos</strong><br>\nEmail: \u0016<a href=\"mailto:dmdmanutencao@gmail.com\">dmdmanutencao@gmail.com</a><br>Telefone: <a href=\"tel:+551432085409\">(14) 3208-5409</a> <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"tel:+5514988105408\">(14) 98810-5408</a><br><br>",
-          "text3": "",
-          "_styles": {
-            "P": {
-              "color": "#efefef"
-            }
-          }
+          "text3": ""
         },
         {
           "_tags": [
