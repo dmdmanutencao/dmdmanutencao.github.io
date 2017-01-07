@@ -482,6 +482,13 @@ h6,
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
+#features4-f .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-f .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
 #contacts1-6 P {
   color: #efefef;
 }
